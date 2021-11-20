@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey there, I am Lkqas💫
 
-<!--
-**lkqas/lkqas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Button](https://badgen.net/badge/UltimateTool/UltimateTool/blue?icon=github&label)](https://github.com/lkqas/UltimateTool) 
+[![Button](https://badgen.net/badge/telegram/telegram/blue?icon=telegram&label)](https://t.me/lkqas1337)
 
-Here are some ideas to get you started:
+```
+class Formybio {
+    public static void main(String[] args) {
+        System.out.println("I am a typical coder."); 
+    }
+}
+```
+I am currently learning c++ and c#. I know a Python, js, node.js, CSS.👨‍💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My contacs:
++ **Telegram : @lkqas1337**
++ **Telegram channels : @lkqas, @bruhnet**
++ **Spotify : [Link](https://open.spotify.com/user/31gzx3m6zejjlhf4vhlsgm5ci77q?si=de4fc781dd56488f)**
++ **Steam : [Link](https://steamcommunity.com/profiles/76561198418111884)**
