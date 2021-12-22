@@ -13,7 +13,7 @@ class Formybio {
 I am currently learning c++ and c#. I know a Python, js, node.js, CSS.👨‍💻 
 
 ### My contacs:
-+ **Telegram : @lkqas1337**
-+ **Telegram channels : @lkqas, @bruhnet**
++ **Telegram : [Link](https://t.me/lkqas)
++ **Telegram channels : [Link](https://t.me/bruhnet)
 + **Spotify : [Link](https://open.spotify.com/user/31gzx3m6zejjlhf4vhlsgm5ci77q?si=de4fc781dd56488f)**
 + **Steam : [Link](https://steamcommunity.com/profiles/76561198418111884)**
