@@ -1,6 +1,6 @@
 # Hey there, I am Lkqas💫
 
-[![Button](https://badgen.net/badge/UltimateTool/UltimateTool/blue?icon=github&label)](https://github.com/lkqas/UltimateTool) 
+[![Button](https://badgen.net/badge/TSS/TSS/blue?icon=github&label)](https://github.com/lkqas/TSS) 
 [![Button](https://badgen.net/badge/telegram/telegram/blue?icon=telegram&label)](https://t.me/lkqas1337)
 
 ```
