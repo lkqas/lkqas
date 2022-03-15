@@ -6,11 +6,10 @@
 ```
 class Formybio {
     public static void main(String[] args) {
-        System.out.println("I am a typical coder."); 
+        System.out.println("XD"); 
     }
 }
 ```
-I am currently learning c++ and c#. I know a Python, js, node.js, CSS.👨‍💻 
 
 ### My contacs:
 + **Telegram : [Link](https://t.me/lkqas)**
