@@ -1,18 +1,1 @@
-# Hey there, I am Lkqas💫
-
-[![Button](https://badgen.net/badge/TSS/TSS/blue?icon=github&label)](https://github.com/lkqas/TSS) 
-[![Button](https://badgen.net/badge/telegram/telegram/blue?icon=telegram&label)](https://t.me/lkqas1337)
-
-```
-class Formybio {
-    public static void main(String[] args) {
-        System.out.println("XD"); 
-    }
-}
-```
-
-### My contacs:
-+ **Telegram : [Link](https://t.me/lkqas)**
-+ **Telegram channels : [Link](https://t.me/bruhnet)**
-+ **Spotify : [Link](https://open.spotify.com/user/31gzx3m6zejjlhf4vhlsgm5ci77q?si=de4fc781dd56488f)**
-+ **Steam : [Link](https://steamcommunity.com/profiles/76561198418111884)**
+![Metrics](https://metrics.lecoq.io/lkqas?template=classic&isocalendar=1&languages=1&followup=1&stars=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&followup.archived=true&repositories.pinned=0&config.timezone=UTC)
